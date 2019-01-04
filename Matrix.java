@@ -1,3 +1,6 @@
+//MOISES BARBERA RAMOS 
+//07-02-2017 LIVERPOOL, UK
+
 package ENCRYPTION PROJECT;
 
 import java.io.PrintWriter;
